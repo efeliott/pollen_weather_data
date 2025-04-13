@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "meteofrance.climatologie_station.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.949167, 45.72133304]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "identifiant": "69029001",
+        "nom": "LYON-BRON",
+        "altitude": 202,
+        "actif": true,
+        "positions": "[{\"dateFin\": \"1923-12-31\", \"altitude\": 196, \"latitude\": 45.733333333333334, \"dateDebut\": \"1888-01-01\", \"longitude\": 4.916666666666667}, {\"dateFin\": \"1940-05-12\", \"altitude\": 196, \"latitude\": 45.733333333333334, \"dateDebut\": \"1924-01-01\", \"longitude\": 4.916666666666667}, {\"dateFin\": \"1940-08-05\", \"altitude\": 212, \"latitude\": 45.733333333333334, \"dateDebut\": \"1940-05-13\", \"longitude\": 4.883333333333334}, {\"dateFin\": \"1943-02-28\", \"altitude\": 196, \"latitude\": 45.733333333333334, \"dateDebut\": \"1940-08-06\", \"longitude\": 4.916666666666667}, {\"dateFin\": \"1944-09-15\", \"altitude\": 212, \"latitude\": 45.733333333333334, \"dateDebut\": \"1943-03-01\", \"longitude\": 4.883333333333334}, {\"dateFin\": \"1959-03-17\", \"altitude\": 196, \"latitude\": 45.733333333333334, \"dateDebut\": \"1944-09-16\", \"longitude\": 4.916666666666667}, {\"dateFin\": \"1996-10-20\", \"altitude\": 200, \"latitude\": 45.71666666666667, \"dateDebut\": \"1959-03-18\", \"longitude\": 4.95}, {\"dateFin\": \"2021-12-16\", \"altitude\": 197, \"latitude\": 45.726, \"dateDebut\": \"1996-10-21\", \"longitude\": 4.937833333333334}, {\"dateFin\": \"\", \"altitude\": 202, \"latitude\": 45.721333333333334, \"dateDebut\": \"2021-12-17\", \"longitude\": 4.949166666666667}]",
+        "gid": 1,
+        "datemaj": "2024-01-22"
+      },
+      "bbox": [4.949167, 45.72133304, 4.949167, 45.72133304]
+    },
+    {
+      "type": "Feature",
+      "id": "meteofrance.climatologie_station.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.855167, 45.77283304]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "identifiant": "69123002",
+        "nom": "LYON TETE D'OR",
+        "altitude": 170,
+        "actif": true,
+        "positions": "[{\"dateFin\": \"\", \"altitude\": 170, \"latitude\": 45.77283333333333, \"dateDebut\": \"1961-01-01\", \"longitude\": 4.855166666666666}]",
+        "gid": 2,
+        "datemaj": "2024-01-22"
+      },
+      "bbox": [4.855167, 45.77283304, 4.855167, 45.77283304]
+    },
+    {
+      "type": "Feature",
+      "id": "meteofrance.climatologie_station.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.835, 45.76666704]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "identifiant": "69123020",
+        "nom": "LYON AMPERE",
+        "altitude": 169,
+        "actif": false,
+        "positions": "[{\"dateFin\": \"1708-12-31\", \"altitude\": 169, \"latitude\": 45.766666666666666, \"dateDebut\": \"1705-01-01\", \"longitude\": 4.835}, {\"dateFin\": \"1869-02-28\", \"altitude\": 169, \"latitude\": 45.766666666666666, \"dateDebut\": \"1838-01-01\", \"longitude\": 4.835}]",
+        "gid": 3,
+        "datemaj": "2024-01-22"
+      },
+      "bbox": [4.835, 45.76666704, 4.835, 45.76666704]
+    },
+    {
+      "type": "Feature",
+      "id": "meteofrance.climatologie_station.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.782333, 45.69466704]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "identifiant": "69204002",
+        "nom": "ST-GENIS-LAVAL",
+        "altitude": 290,
+        "actif": true,
+        "positions": "[{\"dateFin\": \"\", \"altitude\": 290, \"latitude\": 45.69466666666667, \"dateDebut\": \"1881-01-01\", \"longitude\": 4.782333333333334}]",
+        "gid": 4,
+        "datemaj": "2024-01-22"
+      },
+      "bbox": [4.782333, 45.69466704, 4.782333, 45.69466704]
+    }
+  ],
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2025-04-09T11:35:39.539Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [4.782333, 45.69466704, 4.949167, 45.77283304]
+}
